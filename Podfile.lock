@@ -1,0 +1,32 @@
+PODS:
+  - CollectionViewWaterfallLayout (0.5.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - CollectionViewWaterfallLayout
+  - IQKeyboardManagerSwift
+  - Reusable
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - CollectionViewWaterfallLayout
+    - IQKeyboardManagerSwift
+    - Reusable
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  CollectionViewWaterfallLayout: 4399ba01be265fff4da1ed1d607130fe009780e4
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: 3c25411f57ea01226f19f0ac2756faf0102f1196
+
+COCOAPODS: 1.10.1
