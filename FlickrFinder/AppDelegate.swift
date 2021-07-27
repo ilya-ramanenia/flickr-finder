@@ -8,6 +8,13 @@
 import UIKit
 import IQKeyboardManagerSwift
 
+
+// TODO: #v2
+// UI tests
+// Failed requests retry
+// Try Combine state-managing
+
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
@@ -27,8 +34,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 }
-
-
-// TODO: #v2
-// Failed requests retry
-// Try Combine state-managing

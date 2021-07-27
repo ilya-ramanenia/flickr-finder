@@ -7,4 +7,4 @@ Cocoa Swift app that provides image search using Flickr API
 
 `API_KEY=<Your Flickr API key>`
 
-*3. Run tests too see if API loaded and network requests works properly
+*3. Run tests to see if API loaded and network requests works properly
